@@ -105,7 +105,7 @@ section i:nth-child(even) {
     }
 
     100% {
-        transform: translate(+9000%);
+        transform: translate(-14000%);
         opacity: 1;
     }
     
